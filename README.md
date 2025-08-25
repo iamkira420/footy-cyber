@@ -84,16 +84,6 @@ If football is a chess match played on grass, then cybersecurity is the same gam
 
 ---
 
-**Final Whistle**
-
-From Klopp’s gegenpress to Arteta’s structure, Neuer’s sweeping to Messi’s misdirection — the tactical frameworks of elite football carry powerful lessons for the SOC. It’s not just about defense; it’s about anticipation, coordination, and control.
-
-Because whether you’re shutting down a counterattack at the Etihad or a breach attempt on your network, the best defense isn’t just reactive — it’s disciplined, adaptive, and always one move ahead.
-
-Perfect — here's the expanded version with **Rest Defence** as a new section, along with a couple more high-fidelity football tactics that map well to cybersecurity. I’ve followed the same format, tone, and structure for consistency.
-
----
-
 **Rest Defence → Network Hardening & Lateral Movement Control**
 
 **Football:** In modern football, rest defence is how a team positions itself *while attacking* to prevent counters if possession is lost. Guardiola’s City and Xabi Alonso’s Leverkusen are masters of it — pushing fullbacks inside, midfielders holding shape, always with an eye on defensive stability even when dominating.
@@ -116,4 +106,12 @@ Perfect — here's the expanded version with **Rest Defence** as a new section, 
 
 **Cyber:** That’s detection engineering. Not every log or alert is a red flag — but layering detections, chaining signals, and correlating events over time builds the intelligence needed for precision response. It’s subtle, continuous control of the “ball” — the network state — waiting for the right moment to act.
 
+---
 
+**Final Whistle**
+
+From Klopp’s gegenpress to Arteta’s structure, Neuer’s sweeping to Messi’s misdirection — the tactical frameworks of elite football carry powerful lessons for the SOC. It’s not just about defense; it’s about anticipation, coordination, and control.
+
+Because whether you’re shutting down a counterattack at the Etihad or a breach attempt on your network, the best defense isn’t just reactive — it’s disciplined, adaptive, and always one move ahead.
+
+Perfect — here's the expanded version with **Rest Defence** as a new section, along with a couple more high-fidelity football tactics that map well to cybersecurity. I’ve followed the same format, tone, and structure for consistency.
