@@ -113,5 +113,3 @@ If football is a chess match played on grass, then cybersecurity is the same gam
 From Klopp’s gegenpress to Arteta’s structure, Neuer’s sweeping to Messi’s misdirection — the tactical frameworks of elite football carry powerful lessons for the SOC. It’s not just about defense; it’s about anticipation, coordination, and control.
 
 Because whether you’re shutting down a counterattack at the Etihad or a breach attempt on your network, the best defense isn’t just reactive — it’s disciplined, adaptive, and always one move ahead.
-
-Perfect — here's the expanded version with **Rest Defence** as a new section, along with a couple more high-fidelity football tactics that map well to cybersecurity. I’ve followed the same format, tone, and structure for consistency.
